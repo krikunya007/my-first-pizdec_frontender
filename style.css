@@ -1,0 +1,93 @@
+body{
+    background-color: beige;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.header{
+    text-align: center;
+}
+
+.avatar{
+    width: 300px;
+    height: 300px;
+}
+.header__title {font-size: 26px;
+}
+
+.header__subtitle { color: rgb(62, 93, 231);
+}
+
+main{
+    border: 1px solid darkgray;
+    text-align: center;
+}
+
+
+.skills ol{
+    list-style: none;
+
+}
+
+.da{
+    width: 150;
+    height: 250px;
+}
+.separator{
+    width: 50%;
+    height: 3px;
+    background-color: #58cfdf;
+}
+
+.ed__table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.ed__table th,
+.ed__table td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.quote {
+    font-size: 32px;
+}
+
+.form{
+    width: 600px;
+    margin: 0 auto;
+}
+
+.form__control{
+    width: 100%;
+}
+
+.form__submit {
+    display:block;
+    margin: 0 auto;
+}
+
+.control--text{
+    width: 70%;
+}
+
+footer{
+    height: 100px;
+    text-align: center;
+    background-color: rgb(217, 219, 219);
+
+}
+
+.contacts__link{
+    text-decoration: none;
+    color: black;
+}
+
+.video{
+    height: 340px;
+    width: 600px;
+    border: none;
+}
+
+
